@@ -1,0 +1,16 @@
+{
+  "name": "discord_bot",
+  "version": "1.0.0",
+  "description": "Payback_Gaming_Family",
+  "main": "main.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Fraddy_appolo",
+  "license": "ISC",
+  "dependencies": {
+    "canvas": "^2.9.1",
+    "discord.js": "^12.5.3",
+    "fs": "^0.0.1-security"
+  }
+}
